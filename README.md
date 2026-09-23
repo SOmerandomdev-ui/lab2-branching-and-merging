@@ -109,7 +109,7 @@ You'll notice that your repository already has two branches called `alice` and `
     `recipe.md` file and `git commit` to finish the merge.
     - If you merge using your IDE, you will be given a GUI to resolve the conflicts in the file.
 
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [X] Once the merge is complete, delete the `bob` branch.
 
 - [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
